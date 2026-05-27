@@ -1,4 +1,4 @@
-# Hi, I'm Roy 👋
+# Hi, I'm Aiden 👋
 
 🎓 BSc Computer Science @ UWI St. Augustine  
 💻 Interested in software architecture & systems programming  
